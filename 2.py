@@ -19,7 +19,7 @@ if s[0].isupper() and all(i.isupper() for i in s[1:]):
 if s.isupper()==True:
 	result=True
 if s.islower()==True:
-	result=True
+	result=true
 print(result)
 
 
